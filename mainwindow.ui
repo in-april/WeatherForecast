@@ -241,7 +241,7 @@ color: rgb(85, 255, 0);</string>
        <x>150</x>
        <y>50</y>
        <width>121</width>
-       <height>31</height>
+       <height>37</height>
       </rect>
      </property>
      <layout class="QGridLayout" name="gridLayout_2">
@@ -788,7 +788,7 @@ color:rgb(255, 255, 255);</string>
       <rect>
        <x>10</x>
        <y>50</y>
-       <width>271</width>
+       <width>281</width>
        <height>91</height>
       </rect>
      </property>
